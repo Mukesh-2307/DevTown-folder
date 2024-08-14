@@ -1,0 +1,19 @@
+{
+  "name": "devtown-folder",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukesh-2307/DevTown-folder.git"
+  },
+  "author": "Mukesh Kumar Dalai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mukesh-2307/DevTown-folder/issues"
+  },
+  "homepage": "https://github.com/Mukesh-2307/DevTown-folder#readme"
+}
