@@ -4,7 +4,8 @@
   "description": "server",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mukesh-2307/DevTown-folder/issues"
   },
-  "homepage": "https://github.com/Mukesh-2307/DevTown-folder#readme"
+  "homepage": "https://github.com/Mukesh-2307/DevTown-folder#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
