@@ -23,3 +23,9 @@ http.createServer((req,res)=>{
     console.log(`NodeJs Server is listening at Port : ${port}`);
 });
 ```
+### Different methods to communicate with a server
+> 1. GET
+> 2. POST
+> 3. DELETE
+> 4. PUT
+> 5. PATCH
