@@ -1,4 +1,4 @@
-# DevTown-folder
+# Basic Server Development
 ## Server Creation
 > npm init > new entry point => server.js
 
